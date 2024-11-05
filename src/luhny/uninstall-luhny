@@ -1,5 +1,8 @@
 #!/data/data/com.termux/files/usr/bin/env bash
 
+# Alyx's TUR by Alyx Shang.
+# Licensed under the FSL v1.
+
 EXECNAME="luhny"
 
 uninstall(){

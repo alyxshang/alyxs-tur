@@ -1,3 +1,6 @@
+# Alyx's TUR by Alyx Shang.
+# Licensed under the FSL v1.
+
 setup_env(){
     mkdir build
     mkdir build/packages
@@ -7,6 +10,7 @@ setup_env(){
     wget https://raw.githubusercontent.com/termux/termux-create-package/refs/heads/master/src/termux-create-package
     mv termux-create-package termux-create-package.py
 }
+
 build_pkgs(){
     for d in * ; do
         if [ -d $d ]; then
