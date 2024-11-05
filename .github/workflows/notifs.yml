@@ -26,6 +26,6 @@ jobs:
             --tauth ${{ env.BLAHAJ_API_TOKEN }} \
             --apiad "/api" \
             --inadd "https://blahaj.zone" \
-            --conte ${{ env.MSG }} \
+            --conte "${{ env.MSG }}" \
             --visie "public" \
             --etype "LikeOnly"
