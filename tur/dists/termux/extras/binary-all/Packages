@@ -8,10 +8,10 @@ Homepage: https://github.com/alyxshang/luhny.rs
 Description: A library and tool to validate unique device identifiers.
 Filename: dists/termux/extras/binary-all/luhny_0.1.0_all.deb
 Size: 1276
-MD5Sum: 2b4ec2a263701c2cc2c81ecac3e78619
-SHA1: 00a4beadfee88ba35ec52764fe8d3aeae7137f02
-SHA256: 3cb9b85d6867a5a86cb86922132d7c7caabbbb67bf23004468da0775e4639d80
-SHA512: 4da209778627a4dd5146140263214a88006b7727314078398e7a4034683df4e10d039f48870c55719a30671a90def5e6b885648705e10a8412540c48c838410e
+MD5Sum: 32b48fc26f27cb65631c5f0ed988f30d
+SHA1: c31181b6095033e33f2a4a7084ae4901fda61ffe
+SHA256: e133c1cb3f16959c70b8618dbffe11d2b6a45a4046b61fb858a9caa0672264e0
+SHA512: 488b59798e77b741bc904002858c92a797147c7346f806719ff85842053324366a9d895905b40fd0beb55b4d1a51fcacd9a2dfd2984f06976727489dbc7a2663
 
 Package: mandy
 Version: 0.1.0
@@ -23,10 +23,10 @@ Homepage: https://github.com/alyxshang/mandy
 Description: A light and fast static-site generator.
 Filename: dists/termux/extras/binary-all/mandy_0.1.0_all.deb
 Size: 1248
-MD5Sum: b53287d57edeb2ef7a4b333bfa6cc913
-SHA1: e16b70b95972baa2a5717eb49245509c4b9fcd61
-SHA256: e2d4c9b5f7d0fe38c740814691c284802e058acee04c5c461f6905d7fd0bd6eb
-SHA512: d3dfa3a3176b3c2a07c9a0b581e129b627fcb10cdfc81224ca95d9f2d869c07a783bfe54848999fb15b29cce5afd1616b16869c63ff66bf8e6c61d4aae05fc4a
+MD5Sum: b557e6cc74b57328fa0aaaf581cfc3f7
+SHA1: b754cdb755beea29525b505c29bf99bbbaecbb7b
+SHA256: 8385bf1ffc03c753b7c4dc910c27a1288858f8b233b65aa247dcfd3629d6a81d
+SHA512: 3940ea8bfc49ab8130370143540ee5e53ccb9a3fb03fa76b61433a9e467332bf4bf819409ee5cf32f81b5a413e72bfb14268093b4268f1688dbb61018e38cea8
 
 Package: sharkey
 Version: 0.2.0
@@ -37,9 +37,9 @@ Depends: rust, build-essential, binutils, openssl
 Homepage: https://github.com/alyxshang/sharkey.rs
 Description: A tiny library and CLI tool to perform actions on Sharkey using Rust.
 Filename: dists/termux/extras/binary-all/sharkey_0.2.0_all.deb
-Size: 1304
-MD5Sum: 9025689697cb79cabe0e383700d7ac9c
-SHA1: 39be4f947a3229acc25b3e768b6c7d07510e0025
-SHA256: ec29282f6c3e8edc590579b16ab42f2a210e512ca27b4e7bb1285165c81ea3d8
-SHA512: 388ccc42106d0d45f6a5da2460a1631d6b3ab41505cb58f75cc765aeb2b9d00f8c101060c634a40de5d31e14e8146432351bad9bc3041f6c47febafb276de3ea
+Size: 1308
+MD5Sum: 71b6ced7e21fbc9d02006013b185f95a
+SHA1: d15551f18812d930c29b264b2ef9720d495ae07d
+SHA256: 76b18bb34b61fc9154ade2b54181346b6107c785edc1b54b84a8e7aa99b23e6e
+SHA512: 3350f01d1d74f9066d7d438f72b736dae39948f0e9095acb816cce9f4ed8b1408efb247f3d88f625bd4685b6e283571c4bff931c067c4d13d6604b6fcfe5e926
 
