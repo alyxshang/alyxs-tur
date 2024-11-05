@@ -13,12 +13,12 @@ jobs:
         with:
           toolchain: stable
       
-      - name: "Install the Sharkey binary."
-        id: "build"
-        uses: actions-rs/cargo@v1
-        with:
-          command: install
-          args: --git https://github.com/alyxshang/sharkey.rs --tag v.0.2.0 --features=cli
+      #- name: "Install the Sharkey binary."
+      #  id: "build"
+      #  uses: actions-rs/cargo@v1
+      #  with:
+      #    command: install
+      #    args: --git https://github.com/alyxshang/sharkey.rs --tag v.0.2.0 --features=cli
           
       - name: "Echo a message."
-        run: echo $MSG
+        run: echo ${{ env.MSG }}
