@@ -7,11 +7,11 @@ Depends: rust build-essential binutils openssl
 Homepage: https://github.com/alyxshang/luhny.rs
 Description: A library and tool to validate unique device identifiers.
 Filename: dists/termux/extras/binary-all/luhny_0.1.0_all.deb
-Size: 1224
-MD5Sum: 78565aec469d3e7b3b7cbf5f402a5434
-SHA1: b3a2d9c2b145067b4daa4d57e8a83c42d9aedae9
-SHA256: 623b4f16362e7b86b77a8fb0733fcda6fb24ccac97a970ed549618a46beb2f14
-SHA512: 3bd0550c437c4c312ab3100930f81e96ffd02df79716c79bacce065700cd25f6510d59f41bfaff18dffbbdaf08c7c70f1b0d422cc3c7f5673cf08ea317bc7331
+Size: 1220
+MD5Sum: 64bb3da39a0ae01b5363a4c627221a52
+SHA1: 2d4da886bcdf4bd194eb9d32f4b540471b7df28b
+SHA256: 31d60c237ac0055d20357a8259af3f29219c280133fd0dcbd3c4c2330d6f5d93
+SHA512: 402bdc7c8f641db082da9d90eaf396b2f62fe3b1459207ea8faa9bdbccf79093804377ccf086ef77a2fafed78b0bc734f400d50e8bddf4434ead455b0a84d2c5
 
 Package: mandy
 Version: 0.1.0
@@ -22,11 +22,11 @@ Depends: rust build-essential binutils openssl
 Homepage: https://github.com/alyxshang/mandy
 Description: A light and fast static-site generator.
 Filename: dists/termux/extras/binary-all/mandy_0.1.0_all.deb
-Size: 1204
-MD5Sum: aad4c2af984648c345e00112aec1d5c8
-SHA1: 3b53d03bd0e353796a1f1b6fb3648dfaf6f2db3d
-SHA256: 64dc712a49a325d5f0c9f4eac3f28312a6345aac6e5fd061059f57075193a02e
-SHA512: 6e3defd95a65d1c1b85ab900a93bd798ac77df74d50336d751a352dcd7fb3c25d99ba37c889b142f0918a0c6b37edf8d0fc054059662cdcd28993fbe437f06dd
+Size: 1200
+MD5Sum: e3dbebd9419fb8443d5751cdac43a99e
+SHA1: 0d24ef00614b1f8ba7d529fb61278f8d83425d29
+SHA256: 3ef52e0d0a37b3b4ee6903c0511e5bff7676191e2b64b9f59a8d5cf7be50c3b9
+SHA512: cf4cf4f8eaa7a442be7e1d9ef26ef83282095c4b7e9198a1dfc128605be78f03623a561094466d73b097edddc35cc48506156087ed9371c28944c16baa44106f
 
 Package: sharkey
 Version: 0.1.0
@@ -38,8 +38,8 @@ Homepage: https://github.com/alyxshang/sharkey.rs
 Description: A tiny library and CLI tool to perform actions on Sharkey using Rust.
 Filename: dists/termux/extras/binary-all/sharkey_0.1.0_all.deb
 Size: 1248
-MD5Sum: 78e8f5deab881a78cb01eb42b9c71fe2
-SHA1: 95adb9d61198971d7ebb9e68e8eb66527aecae15
-SHA256: 79544ded89aa08916798cf0d28452b7072317aa185da1a04c947787efea3bc0a
-SHA512: 671a456b75c6ddf755114ea33e4e79f5489aef91ef9e056262424a414d6b6230356e1395a56971eab473af57b664f04515308c5b5a3fffcbffd09c8fc2bb3ec8
+MD5Sum: 115338aae89548b95d2be24f080b92d8
+SHA1: 595aa3f94050a5767d127550dec50a102f955ba9
+SHA256: 7814ec2f0793138009523c04be36c425bef0196f516126bb9adc9187dd7f67d9
+SHA512: d0acc5c484fc51f6d7d8b555fe94babc113398ecfbdb71f2273b8d31eadcd4887e4889099e22a7d7c8df3d1404ebac186e90b80cca216ba4290f64e95279b6f0
 
