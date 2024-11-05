@@ -24,9 +24,15 @@ build_pkgs(){
 build_repo(){
     wget https://raw.githubusercontent.com/termux/termux-apt-repo/refs/heads/master/termux-apt-repo
     mv termux-apt-repo termux-apt-repo.py
-    python3 termux-apt-repo.py repo dist
-    mv dist ..
+    python3 termux-apt-repo.py repo tur
+    mv tur ..
     cd ..
+}
+
+build_dist(){
+    mkdir dist
+    mv tur dist
+    cp -rf scripts dist
 }
 
 clean_up(){
@@ -37,3 +43,4 @@ setup_env
 build_pkgs
 build_repo
 clean_up
+build_dist
