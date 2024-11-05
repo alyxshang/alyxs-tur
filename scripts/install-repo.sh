@@ -10,7 +10,7 @@ install(){
         mkdir $PREFIX/etc/apt/sources.list.d
     fi
 
-    if [ -f "$PREFIX/etc/apt/sources.list.d/alyxs-tur.list"]; then
+    if [ -f "$PREFIX/etc/apt/sources.list.d/alyxs-tur.list" ]; then
         echo ""
     else
         touch $PREFIX/etc/apt/sources.list.d/alyxs-tur.list
