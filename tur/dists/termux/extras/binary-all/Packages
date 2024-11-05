@@ -7,11 +7,11 @@ Depends: rust build-essential binutils openssl
 Homepage: https://github.com/alyxshang/luhny.rs
 Description: A library and tool to validate unique device identifiers.
 Filename: dists/termux/extras/binary-all/luhny_0.1.0_all.deb
-Size: 1224
-MD5Sum: 3e03cb65bc0a0d5fd8960d238321e96b
-SHA1: 71d8164b9007e199c37db73ac887c0fc7c9390d3
-SHA256: 039604b5c2c88ade1e326abe61744fdf6bde72d0bf5a4990a6683c30c4baad81
-SHA512: 281f8a771161fd8b6d5a25f57044d9c2e65bf61a4780073aa5927fc4e024c3675489ff2960732d59bf2031e5e6b1cabd88e0103d987be43adcc32a19c2b9d84a
+Size: 1220
+MD5Sum: ccc69801cb80acfb803c7a88888a04a8
+SHA1: fedf1a7f316c736c8667661aa9b1e57dc884b760
+SHA256: a7264494f5a35f9949f1a0c332671ae9dd639dac39f82075e6291d869141eebd
+SHA512: ae36cf9a1a28a73822f54212b52b456f45994901f78f6ab4f282eb1bf753453634410fe101695f6433934fc90ac19d9daf2cf28e534f950382a662580d3754c3
 
 Package: mandy
 Version: 0.1.0
@@ -23,10 +23,10 @@ Homepage: https://github.com/alyxshang/mandy
 Description: A light and fast static-site generator.
 Filename: dists/termux/extras/binary-all/mandy_0.1.0_all.deb
 Size: 1204
-MD5Sum: bff3a0da968f6d4ceab8903ba09cbc8c
-SHA1: c74276b36e2b9ccd45de084767408780dc8c5b9c
-SHA256: 49daa897c97801897d80d54e99e80bb76a51d6abfaf7d3c4aa53017ed886255b
-SHA512: cef131fa14ad0fa849201a858bf381defa08c02084823339f486ef9cd0c919e95d1aaf5ab55df4e54ff7aa476102bd1aa085746b7a0da772e37257ae47a9ff12
+MD5Sum: 4efc8fe39d56bea0cb1df2501bbf8d64
+SHA1: 5a5ad07fd7c9973246918c1c34f24099b1494739
+SHA256: 4d6aa1ec2367ab44358795345be0b406a3184fd169234009dfcc631c4bf4ab5c
+SHA512: 37fc3e85b4b1d24974b96816609fcd3451fbbd05a1848435544c5ea8daff28e8ac2cf5cb482c928a493c2654fd36b1885109f2846fd170ed7a674cffe4da0ad1
 
 Package: sharkey
 Version: 0.1.0
@@ -38,8 +38,8 @@ Homepage: https://github.com/alyxshang/sharkey.rs
 Description: A tiny library and CLI tool to perform actions on Sharkey using Rust.
 Filename: dists/termux/extras/binary-all/sharkey_0.1.0_all.deb
 Size: 1248
-MD5Sum: 2c16d1ad273ed1698600f971fe1d3183
-SHA1: ed1683840ad72a7d6314c2fb612f2116033a80a9
-SHA256: 1069db5bfc678e6ba1e3d4e4b63ef35a18551d72266dfc0437a56f859d03677e
-SHA512: 9a991e6ecd63659fe9136b7407c4260b2b840199a016bb694a323eba85fea1be898946141b604fd5e6bb31679adaeb228eacf1ce978d63c893dd5a7993bb4146
+MD5Sum: c56322d27e3d6d805c09a47f9505731c
+SHA1: 8360e86928484d449ac97dd8576e16a53fb53595
+SHA256: 6d57efd01b65789372c9b550cbe72d1130b2a3df04c37711489240188109351e
+SHA512: d0d2c720263f398212460a9628d23c608eb3eca25d76e37bb095199e131bbf2444683f69f1c4b6ce05abcae1037186e3720930fb6cd6a38f13cd5fff86e73d4b
 
