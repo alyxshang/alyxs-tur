@@ -30,7 +30,7 @@ This user repository contains the following packages:
 - [`mandy`](https://github.com/alyxshang/mandy): A light and fast static-site generator. 
 - [`luhny`](https://github.com/alyxshang/luhny.rs): A library and tool to validate unique device identifiers. 
 
-To install any of these packages on your device, run the following commands from a session in the Termux app:
+To install any of these packages on your device, run the following two commands from a session in the Termux app:
 
 ```bash
 apt install -y package
