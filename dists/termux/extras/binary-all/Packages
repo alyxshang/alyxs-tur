@@ -1,0 +1,45 @@
+Package: luhny
+Version: 0.1.0
+Architecture: all
+Maintainer: alyxshang
+Installed-Size: 2
+Depends: rust build-essential binutils openssl
+Homepage: https://github.com/alyxshang/luhny.rs
+Description: A library and tool to validate unique device identifiers.
+Filename: dists/termux/extras/binary-all/luhny_0.1.0_all.deb
+Size: 1224
+MD5Sum: 1219a0d02365d3510cb646f99fe22e6f
+SHA1: 9f1fb9fc3df16dbc861c2beddb54c6475d8ac61f
+SHA256: 0c8f7c94e81bcd42bb3de6e89236eabcd0a1cc4190e46f6f0cc2aa82906c2494
+SHA512: c79f1a39e1f4aa81ed93ce465a8a24174c2db104ac7643478c3ab3941e1031d63137f758f52eb3eccb1c5c52a7c8a16275d61e8d781b9b2f0cb178511543d8b1
+
+Package: mandy
+Version: 0.1.0
+Architecture: all
+Maintainer: alyxshang
+Installed-Size: 2
+Depends: rust build-essential binutils openssl
+Homepage: https://github.com/alyxshang/mandy
+Description: A light and fast static-site generator.
+Filename: dists/termux/extras/binary-all/mandy_0.1.0_all.deb
+Size: 1204
+MD5Sum: 94c23653203be28a735cefd2c3527dcd
+SHA1: d3d2edec5c7d4ca614409828f308e418cfd0c658
+SHA256: 099ff3514a5c5e75308d5a65904dfe1684fe01cf5b0d7f09f6f4db302905286d
+SHA512: 7cc2c3a9be1956bb258233429f19d8379157418e5f20d28acd5583c57e90e733fcbfb067298d3a700578385c3477ff0ee021fdaf59689a6594c5b0963856c895
+
+Package: sharkey
+Version: 0.1.0
+Architecture: all
+Maintainer: alyxshang
+Installed-Size: 2
+Depends: rust build-essential binutils openssl
+Homepage: https://github.com/alyxshang/sharkey.rs
+Description: A tiny library and CLI tool to perform actions on Sharkey using Rust.
+Filename: dists/termux/extras/binary-all/sharkey_0.1.0_all.deb
+Size: 1248
+MD5Sum: 7602e060b9a523b87bc399c1e5f3bb5c
+SHA1: 98a86c754ca4ef3aaeeffaa821657180eb2bc679
+SHA256: 3d2a3ba644836132b6566768b9c4c7d9f734a204400978acd67770562ed764d4
+SHA512: 497d0fd8dc63d49a81b1c946d2ddc3c304d0ce0797b939f0226100ec9b7fa2d3984fb5a78a4b05795e6f84fbdda0fbe316048c8eb4fcadcf3e26340adb8c65c6
+
