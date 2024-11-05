@@ -5,7 +5,6 @@ setup_env(){
     cp -rf src/* build/packages
     cd build/packages
     wget https://raw.githubusercontent.com/termux/termux-create-package/refs/heads/master/src/termux-create-package
-    chmod a+x termux-create-package
     mv termux-create-package termux-create-package.py
 }
 build_pkgs(){

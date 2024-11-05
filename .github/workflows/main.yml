@@ -1,1 +1,20 @@
-# coming
+name: TUR CI
+on:
+  push:
+    branches: [ main ]
+jobs:
+  build_and_test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: "Install dependencies."
+        run: |
+            sudo apt update
+            sudo apt install -y \
+                python3
+                wget
+      - name: "Verify the installation."
+        run: |
+            python3 --version
+            wget --version
