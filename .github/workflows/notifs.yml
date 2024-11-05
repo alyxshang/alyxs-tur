@@ -1,5 +1,5 @@
 on: [push]
-name: Sharkey.rs CI
+name: Sharkey Notifs
 env:
   BLAHAJ_API_TOKEN: ${{ secrets.BLAHAJ_API_TOKEN }}
   MSG: "CI from commit https://github.com/${{ github.repository }}/commit/${{ github.sha }} succeeded."
