@@ -17,3 +17,8 @@ jobs:
         run: python3 --version && wget --help
       - name: "Build package repository."
         run: bash build.sh && ls
+      - name: "Deploy the repository."
+        uses: JamesIves/github-pages-deploy-action@v4.2.5
+        with:
+          branch: gh-pages
+          folder: dist
