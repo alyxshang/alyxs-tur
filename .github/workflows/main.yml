@@ -15,6 +15,6 @@ jobs:
                 python3
                 wget
       - name: "Verify the installation."
-        run: python3 --version && wget --version
+        run: python3 --version && wget --help
       - name: "Build package repository."
         run: bash build.sh && ls
