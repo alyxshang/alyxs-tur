@@ -8,10 +8,10 @@ Homepage: https://github.com/alyxshang/luhny.rs
 Description: A library and tool to validate unique device identifiers.
 Filename: dists/termux/extras/binary-all/luhny_0.1.0_all.deb
 Size: 1272
-MD5Sum: 353c4fa7174abbaad3c4bf96e322383e
-SHA1: f4cff9910f5085668345ced3904395779d31e677
-SHA256: 66a26d1c91d8383cf4433e3d24c8d61dd5e6f4af95679a6fb1ec0665f132ab98
-SHA512: c9cc763d539cba3c0b880a93226a18dca42ced9daa3fa0e15450c009bad040af97c5a3250a233a1b7b92d656c6d29167e0241447af1790031dadf77b38d13616
+MD5Sum: 880b37f22188192f3b93ea18fde3189d
+SHA1: 346d02cab2bb88c7edd169ed476dcbe7af69db84
+SHA256: 50d426551a774c0d81c7bbb56f14ed0a5ca51f55e5cf61a99e8efffef7f6f329
+SHA512: 9e5960536e582b2715bedf33d8aa845bbe93044b01b987ebd639d410c8416042ac1e17859937f38374d0abe23f053bede57bc7deef5d0f4140f52cd0e736ac4b
 
 Package: mandy
 Version: 0.1.0
@@ -23,10 +23,10 @@ Homepage: https://github.com/alyxshang/mandy
 Description: A light and fast static-site generator.
 Filename: dists/termux/extras/binary-all/mandy_0.1.0_all.deb
 Size: 1248
-MD5Sum: 6735a6aa30486d1ad18b1ed1a0f3e48a
-SHA1: c21fc12eb2cf910649c8fa2dd8b656078a16c988
-SHA256: a5b6d80dc04024b38b795182caabc882ffe999b814cbe91d35b3755356a5a26e
-SHA512: 1dd2b3e766ae93de12cdde55e8b8e8cd7745c2ea1e33bc82f1b41853e154946be95dd067823fb58a92599872fe169189cd9aaa533ce0a618bb2ddcd0a29531fc
+MD5Sum: 3dba97ffa7efbd495f3e211aadfdfc3a
+SHA1: 70e9fbaf10fd3e5f63d639d5aa947e24e3ed7fde
+SHA256: 385c575720c29591e794bf82b3fd82c326708d66a09c2dbef325c872dd33e2d7
+SHA512: de92a6c30b94606e1014e02834f315cfb0a54553a8104bc117a9230129a2f8d89854f8f13232c408c57bee31ffc422dd4d1f3c401b91eb4ac7565d7d2b380001
 
 Package: sharkey
 Version: 0.2.0
@@ -37,9 +37,9 @@ Depends: rust, build-essential, binutils, openssl
 Homepage: https://github.com/alyxshang/sharkey.rs
 Description: A tiny library and CLI tool to perform actions on Sharkey using Rust.
 Filename: dists/termux/extras/binary-all/sharkey_0.2.0_all.deb
-Size: 1304
-MD5Sum: 5cdb289656f132b97a4c9d2950126d3e
-SHA1: 90694b1cb188cd4e4dc4ca4da9118c1c32c23e46
-SHA256: abc2ce93a4c8db62daa8a713b26c872d06c76d510136f8256e329c617b803db7
-SHA512: 8cc798e3ef8e3fbd417869169ab81fef603478ea7012aefe1dcd42b24ecb9bb0a20a7a4cf16c3fa700757df1d99e645924f788b622511e9a70d81c1b83fbb2a3
+Size: 1308
+MD5Sum: 7f872ebbe347528dc9483e6c62502a95
+SHA1: a76ec3e67be649579213ef489280537bd7d475e0
+SHA256: 8af5bc8d2d5128352f79bc9564d481d13866d5b0300acc3682f88d243d40afc4
+SHA512: f77490b752ee4f6e097a319fb48d256a4078ef732af328962e4b6c2b8620a90b2cb3d46182e0254ae702a8122fd78b21b1e56f07c561111f2698ae7139a0436a
 
