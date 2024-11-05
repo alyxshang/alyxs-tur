@@ -1,0 +1,9 @@
+#!/data/data/com.termux/files/usr/bin/env bash
+
+EXECNAME="mandy"
+
+uninstall(){
+    rm -rf $PREFIX/bin/$EXECNAME
+}
+
+uninstall

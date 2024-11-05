@@ -1,0 +1,20 @@
+{
+    "control": {
+        "Package": "luhny",
+        "Version": "0.1.0",
+        "Architecture": "all",
+        "Maintainer": "alyxshang",
+        "Depends": "rust build-essential binutils openssl",
+        "Homepage": "https://github.com/alyxshang/luhny.rs",
+        "Description": ["A library and tool to validate unique device identifiers."]
+    },
+    "installation_prefix": "/data/data/com.termux/files/usr",
+    "data_files": {
+        "bin/install-luhny": { 
+            "source": "install-luhny"
+        },
+        "bin/uninstall-luhny": { 
+            "source": "uninstall-luhny"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "control": {
+        "Package": "mandy",
+        "Version": "0.1.0",
+        "Architecture": "all",
+        "Maintainer": "alyxshang",
+        "Depends": "rust build-essential binutils openssl",
+        "Homepage": "https://github.com/alyxshang/mandy",
+        "Description": ["A light and fast static-site generator."]
+    },
+    "installation_prefix": "/data/data/com.termux/files/usr",
+    "data_files": {
+        "bin/install-mandy": { 
+            "source": "install-mandy"
+        },
+        "bin/uninstall-mandy": { 
+            "source": "uninstall-mandy"
+        }
+    }
+}
