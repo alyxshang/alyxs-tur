@@ -7,11 +7,11 @@ Depends: rust, build-essential, binutils, openssl
 Homepage: https://github.com/alyxshang/luhny.rs
 Description: A library and tool to validate unique device identifiers.
 Filename: dists/termux/extras/binary-all/luhny_0.1.0_all.deb
-Size: 1276
-MD5Sum: 8d2eee4b055e484045cdfbd14770d28e
-SHA1: 6df442ffe2ae381ac8ffb78bae27150cb291cc61
-SHA256: 9a62df5cf03aa026ead21f27825e777eefab434247db69b37e920ae907e7ce24
-SHA512: 39e1ba93c5fa1501aee0b332920408e17b056886f43a7808c59cca674ca80436cf8e0a726bc946e8b15a5a90164b3b587ab01dc2bc974e204006748dd5f6da42
+Size: 1272
+MD5Sum: 353c4fa7174abbaad3c4bf96e322383e
+SHA1: f4cff9910f5085668345ced3904395779d31e677
+SHA256: 66a26d1c91d8383cf4433e3d24c8d61dd5e6f4af95679a6fb1ec0665f132ab98
+SHA512: c9cc763d539cba3c0b880a93226a18dca42ced9daa3fa0e15450c009bad040af97c5a3250a233a1b7b92d656c6d29167e0241447af1790031dadf77b38d13616
 
 Package: mandy
 Version: 0.1.0
@@ -23,23 +23,23 @@ Homepage: https://github.com/alyxshang/mandy
 Description: A light and fast static-site generator.
 Filename: dists/termux/extras/binary-all/mandy_0.1.0_all.deb
 Size: 1248
-MD5Sum: 5f8269799a9b66296fc8cd8bf66068ea
-SHA1: 8540415aec797be2794f93ab7a6f5966500ac503
-SHA256: 77cc8a42fc26066e334c7e19975457eb194958f44cfc9ecffa1c6925a9426a3e
-SHA512: 9c7f9d25f3064c4ef7462611be274a6af0543f5cf375f4e3469cda643299857c269f607ed962dcbbaa086d973d2f5927ae81367625326313c330ca4527118a96
+MD5Sum: 6735a6aa30486d1ad18b1ed1a0f3e48a
+SHA1: c21fc12eb2cf910649c8fa2dd8b656078a16c988
+SHA256: a5b6d80dc04024b38b795182caabc882ffe999b814cbe91d35b3755356a5a26e
+SHA512: 1dd2b3e766ae93de12cdde55e8b8e8cd7745c2ea1e33bc82f1b41853e154946be95dd067823fb58a92599872fe169189cd9aaa533ce0a618bb2ddcd0a29531fc
 
 Package: sharkey
-Version: 0.1.0
+Version: 0.2.0
 Architecture: all
 Maintainer: alyxshang
 Installed-Size: 2
 Depends: rust, build-essential, binutils, openssl
 Homepage: https://github.com/alyxshang/sharkey.rs
 Description: A tiny library and CLI tool to perform actions on Sharkey using Rust.
-Filename: dists/termux/extras/binary-all/sharkey_0.1.0_all.deb
+Filename: dists/termux/extras/binary-all/sharkey_0.2.0_all.deb
 Size: 1304
-MD5Sum: 56b2ee844549fd89cd2048fdd68fa342
-SHA1: 440f64ad662eb4ef67d3135c95c929f0acf402ff
-SHA256: 02e55980a6b89f88b524dc18bd131caa6875892bc2070a5378164ec8aa97880f
-SHA512: 91f66b4167938247d5489c6fc532ae4062fc3f966e7d6015f235c317c62e51f41ca72f009b439c478f47a6e83d8cd89030d137098ede36b8aa1069608fdce8e6
+MD5Sum: 5cdb289656f132b97a4c9d2950126d3e
+SHA1: 90694b1cb188cd4e4dc4ca4da9118c1c32c23e46
+SHA256: abc2ce93a4c8db62daa8a713b26c872d06c76d510136f8256e329c617b803db7
+SHA512: 8cc798e3ef8e3fbd417869169ab81fef603478ea7012aefe1dcd42b24ecb9bb0a20a7a4cf16c3fa700757df1d99e645924f788b622511e9a70d81c1b83fbb2a3
 
