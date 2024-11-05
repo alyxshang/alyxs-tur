@@ -4,13 +4,14 @@
 # Licensed under the FSL v1.
 
 EXECNAME="sharkey"
-TAG="v.0.1.0"
+TAG="v.0.2.0"
 APPNAME="sharkey.rs"
 
 build(){
     wget https://github.com/alyxshang/$APPNAME/archive/refs/tags/$TAG.tar.gz
     tar -xvzf $TAG.tar.gz
     cd $APPNAME-$TAG
+    pwd
     cargo build --release --features=cli
     mv target/release/$EXECNAME .
 }
@@ -18,6 +19,7 @@ build(){
 install(){
     mv $EXECNAME $PREFIX/bin
 }
+
 
 clean(){
     cd ..
@@ -27,7 +29,7 @@ clean(){
 
 main(){
     build
-    install
+    #install
     clean
 }
 
