@@ -6,7 +6,7 @@
 
 ## ABOUT :books:
 
-This repository contains the source code for a package repository for a set of packages of my own for the Termux terminal emulator. The packages featured in this repository are tools I have developed.
+This repository contains the source code for a package repository for a set of packages of my own for the Termux terminal emulator. The packages featured in this repository are tools I have developed. The packages in this package repository are purely source-based. No binaries are shipped to users of Termux.
 
 ## INSTALLATION :inbox_tray:
 
