@@ -8,10 +8,10 @@ Homepage: https://github.com/alyxshang/luhny.rs
 Description: A library and tool to validate unique device identifiers.
 Filename: dists/termux/extras/binary-all/luhny_0.1.0_all.deb
 Size: 1276
-MD5Sum: 32b48fc26f27cb65631c5f0ed988f30d
-SHA1: c31181b6095033e33f2a4a7084ae4901fda61ffe
-SHA256: e133c1cb3f16959c70b8618dbffe11d2b6a45a4046b61fb858a9caa0672264e0
-SHA512: 488b59798e77b741bc904002858c92a797147c7346f806719ff85842053324366a9d895905b40fd0beb55b4d1a51fcacd9a2dfd2984f06976727489dbc7a2663
+MD5Sum: 3aa1b793c4284e9e11ab83ccc690fd5c
+SHA1: 50337b869641dda338b2c3adacac1f60717f18b0
+SHA256: 1277b650545ffcb5e9b98befc0ecf477c1cc1b3409b4624e2cf2499340ef1d95
+SHA512: 3459b7e95f47cbe9d1abce94b26faa07f7bf99e709c7a2c30f43ad05248fff3ccb977f3140b6ec1c316d2a85ed846762b1b42056eaf860b31b357be56742432f
 
 Package: mandy
 Version: 0.1.0
@@ -23,10 +23,10 @@ Homepage: https://github.com/alyxshang/mandy
 Description: A light and fast static-site generator.
 Filename: dists/termux/extras/binary-all/mandy_0.1.0_all.deb
 Size: 1248
-MD5Sum: b557e6cc74b57328fa0aaaf581cfc3f7
-SHA1: b754cdb755beea29525b505c29bf99bbbaecbb7b
-SHA256: 8385bf1ffc03c753b7c4dc910c27a1288858f8b233b65aa247dcfd3629d6a81d
-SHA512: 3940ea8bfc49ab8130370143540ee5e53ccb9a3fb03fa76b61433a9e467332bf4bf819409ee5cf32f81b5a413e72bfb14268093b4268f1688dbb61018e38cea8
+MD5Sum: a4c5fde31dc885bd6eb9d36bc17cf5cb
+SHA1: ec742522488708ccbb8fbdcb16954544e7d92a97
+SHA256: aa726e2a76403a96de16a7d2877ff28a25899d561532ca8d809b6b73734466b8
+SHA512: b138bbce41c3570976b6729d528902a683bf7b827ac8627dd7aa232f8f5b71cd2caa171370164af8714929fb38adb2f0b321da4fcdd83f5a526b20ee3f051053
 
 Package: sharkey
 Version: 0.2.0
@@ -37,9 +37,9 @@ Depends: rust, build-essential, binutils, openssl
 Homepage: https://github.com/alyxshang/sharkey.rs
 Description: A tiny library and CLI tool to perform actions on Sharkey using Rust.
 Filename: dists/termux/extras/binary-all/sharkey_0.2.0_all.deb
-Size: 1308
-MD5Sum: 71b6ced7e21fbc9d02006013b185f95a
-SHA1: d15551f18812d930c29b264b2ef9720d495ae07d
-SHA256: 76b18bb34b61fc9154ade2b54181346b6107c785edc1b54b84a8e7aa99b23e6e
-SHA512: 3350f01d1d74f9066d7d438f72b736dae39948f0e9095acb816cce9f4ed8b1408efb247f3d88f625bd4685b6e283571c4bff931c067c4d13d6604b6fcfe5e926
+Size: 1304
+MD5Sum: e5ad62804b05c92c3cf7b9db8b780224
+SHA1: bec804cec4b9c6334d3f2e4c111fc3fdc073f2c4
+SHA256: be689f1e33632fa869efdf4990eddecf2e3d91d55349a4a4c0363ad8058f3a98
+SHA512: 29d3f0dd3a213c369066308449eadb3a73e98ea410388999fa235d2f5af10c7cc3c0297700f546d9903d50f08516dadbd6f80515a64c385ac2b040e0993a83aa
 
