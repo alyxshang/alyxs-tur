@@ -1,4 +1,7 @@
 name: TUR CI
+env:
+  BLAHAJ_API_TOKEN: ${{ secrets.BLAHAJ_API_TOKEN }}
+  MSG: "CI from commit https://github.com/${{ github.repository }}/commit/${{ github.sha }} succeeded."
 on:
   push:
     branches: [ main ]
@@ -7,6 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+
+      - uses: actions-rs/toolchain@v1
+        with:
+          toolchain: stable
       
       - name: "Install dependencies."
         run: |
@@ -21,4 +28,21 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4.2.5
         with:
           branch: gh-pages
-          folder: dist
+          folder: dist      
+      
+      - name: "Install the Sharkey binary."
+        id: "build"
+        uses: actions-rs/cargo@v1
+        with:
+          command: install
+          args: --git https://github.com/alyxshang/sharkey.rs --tag v.0.2.0 --features=cli
+          
+      - name: "Echo a message to my Sharkey account."
+        run: |
+          sharkey --postn \
+            --tauth ${{ env.BLAHAJ_API_TOKEN }} \
+            --apiad "/api" \
+            --inadd "https://blahaj.zone" \
+            --conte "${{ env.MSG }}" \
+            --visie "public" \
+            --etype "LikeOnly"
