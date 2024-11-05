@@ -3,43 +3,43 @@ Version: 0.1.0
 Architecture: all
 Maintainer: alyxshang
 Installed-Size: 2
-Depends: rust build-essential binutils openssl
+Depends: rust, build-essential, binutils, openssl
 Homepage: https://github.com/alyxshang/luhny.rs
 Description: A library and tool to validate unique device identifiers.
 Filename: dists/termux/extras/binary-all/luhny_0.1.0_all.deb
-Size: 1220
-MD5Sum: ccc69801cb80acfb803c7a88888a04a8
-SHA1: fedf1a7f316c736c8667661aa9b1e57dc884b760
-SHA256: a7264494f5a35f9949f1a0c332671ae9dd639dac39f82075e6291d869141eebd
-SHA512: ae36cf9a1a28a73822f54212b52b456f45994901f78f6ab4f282eb1bf753453634410fe101695f6433934fc90ac19d9daf2cf28e534f950382a662580d3754c3
+Size: 1224
+MD5Sum: 56b1f47c93db6780fbf2e732c1263717
+SHA1: a7ac04c2a4e4b8fb716982fde97f135a3b200e42
+SHA256: 2233843dac9c259a72f719b987b254f527923226e00efe9b288e32087d11f56c
+SHA512: 67131b969fa32065bb2837133fe81350831d59cf48f29303974e4422d5b19e94acdeda62241a76a9149587eb755d7e56a739e4c01dadbcdcc438a7dc7cd8796a
 
 Package: mandy
 Version: 0.1.0
 Architecture: all
 Maintainer: alyxshang
 Installed-Size: 2
-Depends: rust build-essential binutils openssl
+Depends: rust, build-essential, binutils, openssl
 Homepage: https://github.com/alyxshang/mandy
 Description: A light and fast static-site generator.
 Filename: dists/termux/extras/binary-all/mandy_0.1.0_all.deb
 Size: 1204
-MD5Sum: 4efc8fe39d56bea0cb1df2501bbf8d64
-SHA1: 5a5ad07fd7c9973246918c1c34f24099b1494739
-SHA256: 4d6aa1ec2367ab44358795345be0b406a3184fd169234009dfcc631c4bf4ab5c
-SHA512: 37fc3e85b4b1d24974b96816609fcd3451fbbd05a1848435544c5ea8daff28e8ac2cf5cb482c928a493c2654fd36b1885109f2846fd170ed7a674cffe4da0ad1
+MD5Sum: 9c113ca71b4bf13f4a1bb9244dd42875
+SHA1: 3c6cde8bd1ee7e0d1f70640010ccfb7fa5737711
+SHA256: ea29d516f9bf836b831c6d7c889759640e808eec72d174e61c1be7339920a198
+SHA512: 77918f766e1cd14514a8670b47b61f72780ae0cff2472b58bdb6d4c6a392be050c66500f11cbff7c9f2539306be8251257e43be2bdf2c5a56b9ab6d1e4926860
 
 Package: sharkey
 Version: 0.1.0
 Architecture: all
 Maintainer: alyxshang
 Installed-Size: 2
-Depends: rust build-essential binutils openssl
+Depends: rust, build-essential, binutils, openssl
 Homepage: https://github.com/alyxshang/sharkey.rs
 Description: A tiny library and CLI tool to perform actions on Sharkey using Rust.
 Filename: dists/termux/extras/binary-all/sharkey_0.1.0_all.deb
 Size: 1248
-MD5Sum: c56322d27e3d6d805c09a47f9505731c
-SHA1: 8360e86928484d449ac97dd8576e16a53fb53595
-SHA256: 6d57efd01b65789372c9b550cbe72d1130b2a3df04c37711489240188109351e
-SHA512: d0d2c720263f398212460a9628d23c608eb3eca25d76e37bb095199e131bbf2444683f69f1c4b6ce05abcae1037186e3720930fb6cd6a38f13cd5fff86e73d4b
+MD5Sum: 1558e838f18970223eb309cfbfcd5d35
+SHA1: 823de30343ac8c4ed1b093f5bc2223bcd14b0a46
+SHA256: 838f43762b6ad6f5025eaf48790c4af50621fad595591af7b2ae29e9638c3ee9
+SHA512: c85e4ada5b24d209facea180c235cf1b5277a5792ee269d765cec646cefb32d1c50cafb604746f34e494533f81b023094eab16653a0650e56a0c5c8a7c012903
 
