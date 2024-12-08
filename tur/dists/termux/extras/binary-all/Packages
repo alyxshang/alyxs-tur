@@ -7,11 +7,11 @@ Depends: rust, build-essential, binutils, openssl
 Homepage: https://github.com/alyxshang/luhny.rs
 Description: A library and tool to validate unique device identifiers.
 Filename: dists/termux/extras/binary-all/luhny_0.1.0_all.deb
-Size: 1276
-MD5Sum: 3aa1b793c4284e9e11ab83ccc690fd5c
-SHA1: 50337b869641dda338b2c3adacac1f60717f18b0
-SHA256: 1277b650545ffcb5e9b98befc0ecf477c1cc1b3409b4624e2cf2499340ef1d95
-SHA512: 3459b7e95f47cbe9d1abce94b26faa07f7bf99e709c7a2c30f43ad05248fff3ccb977f3140b6ec1c316d2a85ed846762b1b42056eaf860b31b357be56742432f
+Size: 1280
+MD5Sum: 75c9bbce734008a2affa531a1021e3a1
+SHA1: 90b925463ae4ad9c2debd725f4e764d8ab83f47a
+SHA256: c3f214f77455b751c5aacaa30ee12270967fcc470a67f4d86bda4a3b6407887b
+SHA512: 4716ee3f1a6d2e7a2b42f0efa3eeb007e2f0f5ca081a54469068816e573de0c6dba0978dd79f575fa625dc267c44542744ab489e65b8f9ccd8b1695cbece1737
 
 Package: mandy
 Version: 0.1.0
@@ -23,23 +23,8 @@ Homepage: https://github.com/alyxshang/mandy
 Description: A light and fast static-site generator.
 Filename: dists/termux/extras/binary-all/mandy_0.1.0_all.deb
 Size: 1248
-MD5Sum: a4c5fde31dc885bd6eb9d36bc17cf5cb
-SHA1: ec742522488708ccbb8fbdcb16954544e7d92a97
-SHA256: aa726e2a76403a96de16a7d2877ff28a25899d561532ca8d809b6b73734466b8
-SHA512: b138bbce41c3570976b6729d528902a683bf7b827ac8627dd7aa232f8f5b71cd2caa171370164af8714929fb38adb2f0b321da4fcdd83f5a526b20ee3f051053
-
-Package: sharkey
-Version: 0.2.0
-Architecture: all
-Maintainer: alyxshang
-Installed-Size: 2
-Depends: rust, build-essential, binutils, openssl
-Homepage: https://github.com/alyxshang/sharkey.rs
-Description: A tiny library and CLI tool to perform actions on Sharkey using Rust.
-Filename: dists/termux/extras/binary-all/sharkey_0.2.0_all.deb
-Size: 1304
-MD5Sum: e5ad62804b05c92c3cf7b9db8b780224
-SHA1: bec804cec4b9c6334d3f2e4c111fc3fdc073f2c4
-SHA256: be689f1e33632fa869efdf4990eddecf2e3d91d55349a4a4c0363ad8058f3a98
-SHA512: 29d3f0dd3a213c369066308449eadb3a73e98ea410388999fa235d2f5af10c7cc3c0297700f546d9903d50f08516dadbd6f80515a64c385ac2b040e0993a83aa
+MD5Sum: 71a198011c01d7cde9e327de7c9506b1
+SHA1: 140e762d04a5f35999d1be339975b8445b4f8a90
+SHA256: 27c6a4f86f3358425ae60d2df80e2db0cf9cddc7467320274dff5451b8d802ad
+SHA512: 3b99737c415c10d37350ed40a22ec29f3d4344649b6006d21d9cb1bb59fc5edb7b7aef53075595410a5e50bba3669911fb5536a6b942163b313448673c64c975
 

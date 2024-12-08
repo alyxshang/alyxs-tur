@@ -2,5 +2,3 @@ data/data/com.termux/files/usr/bin/install-luhny                                
 data/data/com.termux/files/usr/bin/uninstall-luhny                               luhny
 data/data/com.termux/files/usr/bin/install-mandy                                 mandy
 data/data/com.termux/files/usr/bin/uninstall-mandy                               mandy
-data/data/com.termux/files/usr/bin/install-sharkey                               sharkey
-data/data/com.termux/files/usr/bin/uninstall-sharkey                             sharkey
