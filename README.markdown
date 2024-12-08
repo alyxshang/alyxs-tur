@@ -26,7 +26,6 @@ apt install -y wget && wget https://alyxshang.boo/alyxs-tur/scripts/uninstall-re
 
 This user repository contains the following packages:
 
-- [`sharkey`](https://github.com/alyxshang/sharkey.rs): A tiny library and CLI tool to perform actions on Sharkey using Rust.
 - [`mandy`](https://github.com/alyxshang/mandy): A light and fast static-site generator. 
 - [`luhny`](https://github.com/alyxshang/luhny.rs): A library and tool to validate unique device identifiers. 
 
